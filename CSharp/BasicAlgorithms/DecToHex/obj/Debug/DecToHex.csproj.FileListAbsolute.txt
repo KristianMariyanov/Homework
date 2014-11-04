@@ -1,0 +1,6 @@
+C:\Users\User\Documents\Visual Studio 2013\Projects\Solution6\DecToHex\bin\Debug\DecToHex.exe.config
+C:\Users\User\Documents\Visual Studio 2013\Projects\Solution6\DecToHex\bin\Debug\DecToHex.exe
+C:\Users\User\Documents\Visual Studio 2013\Projects\Solution6\DecToHex\bin\Debug\DecToHex.pdb
+C:\Users\User\Documents\Visual Studio 2013\Projects\Solution6\DecToHex\obj\Debug\DecToHex.csprojResolveAssemblyReference.cache
+C:\Users\User\Documents\Visual Studio 2013\Projects\Solution6\DecToHex\obj\Debug\DecToHex.exe
+C:\Users\User\Documents\Visual Studio 2013\Projects\Solution6\DecToHex\obj\Debug\DecToHex.pdb
